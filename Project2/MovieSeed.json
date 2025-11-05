@@ -1,0 +1,7 @@
+[
+    { "id": "tdk",    "name": "The Dark Knight",    "description": "Batman faces the Joker in Gotham.",                         "isFavorite": false, "imageName": "dark_knight" },
+    { "id": "tenet",  "name": "Tenet",              "description": "An agent manipulates time to prevent catastrophe.",         "isFavorite": false, "imageName": "tenet" },
+    { "id": "br2049", "name": "Blade Runner 2049",  "description": "A blade runner unearths a long-buried secret.",             "isFavorite": false, "imageName": "blade_runner_2049" },
+    { "id": "parasite","name": "Parasite",          "description": "Two families’ lives become entangled.",                      "isFavorite": false, "imageName": "parasite" },
+    { "id": "whiplash","name": "Whiplash",          "description": "A drummer clashes with a brutal instructor.",               "isFavorite": false, "imageName": "whiplash" }
+]
