@@ -1,7 +1,0 @@
-[
-  { "id": "m1", "name": "Inception",    "description": "A thief enters dreams to steal secrets.",                                       "isFavorite": false, "imageName": "inception" },
-  { "id": "m2", "name": "Interstellar", "description": "A journey through space and time to save Earth.",                                 "isFavorite": true,  "imageName": "interstellar" },
-  { "id": "m3", "name": "Dune",         "description": "A noble family becomes entangled in galactic conflict on Arrakis.",               "isFavorite": false, "imageName": "dune" },
-  { "id": "m4", "name": "Oppenheimer",  "description": "The story of J. Robert Oppenheimer and the Manhattan Project.",                   "isFavorite": false, "imageName": "oppenheimer" },
-
-]
